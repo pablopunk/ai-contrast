@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "dev": "next",
+    "build": "next build && next export"
+  },
+  "dependencies": {
+    "brain.js": "^1.2.1",
+    "hex-rgb": "^3.0.0",
+    "next": "^6.0.3",
+    "react": "^16.3.2",
+    "react-color": "^2.14.1",
+    "react-dom": "^16.3.2"
+  }
+}
